@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome to my place 👋
+## 💬 : yunanash1234@gmail.com
 
 <!--
 **YUNA-AHN/yuna-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
