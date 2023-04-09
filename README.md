@@ -1,4 +1,4 @@
-### ⚡Personal ML Study⚡
+## Welcome to my place 👋
 
 <!--
 **YUNA-AHN/yuna-ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
