@@ -1,7 +1,7 @@
 ## Welcome to my place 👋
 **작심삼일**도 **3일**마다 하면 **꾸준히** 하는 것이다!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![yuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuna-ahn&show_icons=true&theme=radical)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgvina)](https://solved.ac/sgvina/)
 
