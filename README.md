@@ -1,4 +1,4 @@
-# 안녕하세요! SSAFY 10기 안유나입니다. 👋
+# 안녕하세요! 백엔드 개발자 안유나입니다. 👋
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNA%20AHN&fontSize=90&animation=fadeIn&fontAlignY=38&desc=작심삼일도%20삼일마다%20하면%20꾸준히%20하는%20것이다!&descAlignY=51&descAlign=62)
 
@@ -44,13 +44,17 @@
 - ADsP
 - SAS BASE
 
-# 🤔 IT Topic
-Recommendation system
-
 # 🏆 Reward
+- 삼성 청년 SW 아카데미 공통 프로젝트 1등
+- 계명대학교 2021 2차 빅데이터 분석 경진대회 최우수상
+- 계명대학교 2022 1차 빅데이터 분석 경진대회 최우수상
+- 계명대학교 캡스톤디자인 작품발표회 최우수상
+- 2021 한국정보기술학회 대학생 논문경진대회 동상
+- 2021 한국정보기술학회 대학생 논문경진대회 동상
+
 
 # 🖥 Current
-- SSAFY 10기 파이썬 트랙 이수중
+- SSAFY 10기 이수
 
 
 # 📫 Contact
