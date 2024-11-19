@@ -10,6 +10,19 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sgvina)](https://solved.ac/sgvina/)
 </div>
 
+# 🎞 Projetcs
+
+<div align="center">
+ 
+| Name      | Role                  | Summary                                                 | Date                    | Link                                                                                                                                                                                                                                                                                                                                                          |
+| --------- | --------------------- | ------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ANUDAR   | BackEnd & FrontEnd    | 🎨 전시, 도슨트, 실시간 경매 서비스             | 2024.01 ~ 2024.02 (6주) | <a href="https://github.com/PJT-ANUDAR/ANUDAR"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a/> |
+|  네 발자국  | BackEnd & Recommend System | 🚶‍♂️ 사용자 맞춤 산책로 추천을 기반으로 한 우리 동네 영역 표시 플랫폼 | 2024.03 ~ 2024.04 (6주) | <a href="https://github.com/YourFootprints/YourFootprints"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a/>|
+| YOUNG-SG   | BackEnd & DevOps           | 💻 회의 참여도를 높이고 편리함을 제공하는 회의록 관리 서비스 | 2024.04 ~ 2024.05 (6주) | <a href="https://github.com/YOUNG-SG"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <a/>     |
+| SeMoDi | BackEnd & DevOps    | 🍰 디저트 후기를 게시하고 질문하며 정보를 공유하는 SNS 서비스               | 2024.07 ~ ing | <a href="https://play.google.com/store/apps/details?id=com.gungssam.SeMoDi"> <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white"> <a/> <a href="https://apps.apple.com/kr/app/semodi/id6686387940"> <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white"> <a/>                                                                                                                                                                                                 |
+
+</div>
+
 # 🛠 Tech Stack
 
 <div align=center> 
@@ -50,7 +63,7 @@
 - 계명대학교 2022 1차 빅데이터 분석 경진대회 최우수상
 - 계명대학교 캡스톤디자인 작품발표회 최우수상
 - 2021 한국정보기술학회 대학생 논문경진대회 동상
-- 2021 한국정보기술학회 대학생 논문경진대회 동상
+- 2022 한국정보기술학회 대학생 논문경진대회 동상
 
 
 # 🖥 Current
